@@ -31,3 +31,4 @@ class Config:
         "PUBSUB_TOPIC_ID",
         "crypto-trades",
     )
+    
